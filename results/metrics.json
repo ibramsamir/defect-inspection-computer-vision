@@ -1,0 +1,10 @@
+{
+  "test_images": 200,
+  "image_accuracy": 0.975,
+  "image_precision": 1.0,
+  "image_recall": 0.964,
+  "image_f1": 0.982,
+  "false_alarms_on_good_parts": 0,
+  "missed_defective_parts": 5,
+  "defect_localisation_recall": 0.934
+}
